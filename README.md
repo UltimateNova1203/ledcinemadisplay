@@ -25,7 +25,7 @@ Pin 14 | Ground ⏚ | Magenta Pair ( Shield )
 Pin 16 | Aux Lane ＋ | Magenta Pair
 Pin 18 | Aux Lane － | Magenta Pair
 Pin 19 | Ground ⏚ | Blue
-Pin 20 | Power ＋ ( 3.3V | 500mA ) | Red
+Pin 20 | Power ＋ ( 3.3V / 500mA ) | Red
 Shield | Ground ⏚ | Shield
 
   * Pin 1/13/14/19 MIGHT be pinned to Shield? (Needs clarification)
@@ -34,9 +34,9 @@ Shield | Ground ⏚ | Shield
 Pinning | Purpose | Wire Color
 ------- | ------- | ----------
 Pin 1 | Ground ⏚ | Shield
-Pin 2 | V ＋ ( 14.5V | 16.5V | 18.5V | 20V ) | White (Core)
-Pin 3 | Charge Control | Wire
-Pin 4 | V ＋ ( 14.5V | 16.5V | 18.5V | 20V ) | White (Core)
+Pin 2 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
+Pin 3 | Charge Control | I2C Wire
+Pin 4 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
 Pin 5 | Ground ⏚ | Shield
 Shield | Ground ⏚ | Shield
 
@@ -49,7 +49,7 @@ Shield | Ground ⏚ | Shield
 ## USB (Source-Side)
 Pinning | Purpose | Wire Color
 ------- | ------- | ----------
-Pin 1 | Vʙᴜs ＋ ( 5V | 100mA ) | Red
+Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
 Pin 2 | Data － | Silver
 Pin 3 | Data ＋ | Green
 Pin 4 | Ground ⏚ | Black
