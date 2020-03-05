@@ -1,6 +1,44 @@
 # Apple LED Cinema Display
 Pinout for the Apple LED Cinema Displays, for use to create a cable to replace any damaged originals.
 
-# Supported Hardware
+## Supported Hardware
 Apple LED Cinema Display 24" (A1267)
 Apple LED Cinema Display 27" (A1316)
+
+# Pinouts
+Pinouts for the cable is as follows:
+
+## LVDS (Sink-Side)
+* Needs pinout detailed, WIP
+
+## Mini DisplayPort (Source-Side)
+* Pin 1 = Ground ⏚ = Cyan Pair (Shield)
+* Pin 2 = Hotplug = Green
+* Pin 3 = Lane 3- = Cyan Pair
+* Pin 5 = Lane 3+ = Cyan Pair
+* Pin 9 = Lane 1+ = Silver Pair
+* Pin 11 = Lane 1- = Silver Pair
+* Pin 13 = Ground ⏚ = Silver Pair (Shield)
+* Pin 14 = Ground ⏚ = Magenta Pair (Shield)
+* Pin 16 = Aux Lane+ = Magenta Pair
+* Pin 18 = Aux Lane- = Magenta Pair
+* Pin 19 = Ground ⏚ = Blue
+* Pin 20 = Power+ (3.3V | 500mA) = Red
+
+## Magsafe 1 (Source-Side)
+* Pin 1 = Ground ⏚ (0V)
+* Pin 2 = V+ (14.5V | 16.5V | 18.5V | 20V)
+* Pin 3 = Charge Control
+* Pin 4 = V+ (14.5V | 16.5V | 18.5V | 20V)
+* Pin 5 = Ground ⏚ (0V)
+
+  * 14.5V for 45W
+  * 16.5V for 60W
+  * 18.5V for 85W
+  * 20V for 85W
+
+## USB (Source-Side)
+* Pin 1 = VBUS+ (5V)
+* Pin 2 = Data-
+* Pin 3 = Data+
+* Pin 4 = Ground ⏚
