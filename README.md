@@ -13,16 +13,24 @@ Pinouts for the cable is as follows:
 
 ## Mini DisplayPort ( Source-Side )
 Pinning | Purpose | Wire Color
-------- | ------- | ----------
+:-: | :-: | :-:
 Pin 1 | Ground ⏚ | Cyan Pair ( Shield )
 Pin 2 | Hotplug | Green
 Pin 3 | Lane 3 － | Cyan Pair
+Pin 4 | Unused | Unused
 Pin 5 | Lane 3 ＋ | Cyan Pair
+Pin 6 | Unused | Unused
+Pin 7 | Unused | Unused
+Pin 8 | Unused | Unused
 Pin 9 | Lane 1 ＋ | Silver Pair
+Pin 10 | Unused | Unused
 Pin 11 | Lane 1 － | Silver Pair
+Pin 12 | Unused | Unused
 Pin 13 | Ground ⏚ | Silver Pair ( Shield )
 Pin 14 | Ground ⏚ | Magenta Pair ( Shield )
+Pin 15 | Unused | Unused
 Pin 16 | Aux Lane ＋ | Magenta Pair
+Pin 17 | Unused | Unused
 Pin 18 | Aux Lane － | Magenta Pair
 Pin 19 | Ground ⏚ | Blue
 Pin 20 | Power ＋ ( 3.3V / 500mA ) | Red
@@ -32,7 +40,7 @@ Shield | Ground ⏚ | Shield
 
 ## Magsafe 1 (Source-Side)
 Pinning | Purpose | Wire Color
-------- | ------- | ----------
+:-: | :-: | :-:
 Pin 1 | Ground ⏚ | Shield
 Pin 2 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
 Pin 3 | Charge Control | I2C Wire
