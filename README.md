@@ -48,7 +48,7 @@ Shield | Ground ⏚ | Shield
 
 ## USB (Source-Side)
 Pinning | Purpose | Wire Color
-------- | ------- | ----------
+:-: | :-: | :-:
 Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
 Pin 2 | Data － | Silver
 Pin 3 | Data ＋ | Green
