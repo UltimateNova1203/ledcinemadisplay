@@ -2,14 +2,21 @@
 Pinout for the Apple LED Cinema Displays, for use to create a cable to replace any damaged originals.
 
 ## Supported Hardware
-Apple LED Cinema Display 24" (A1267)
-Apple LED Cinema Display 27" (A1316)
+* Apple LED Cinema Display 24" (A1267)
+* Apple LED Cinema Display 27" (A1316)
 
-# Pinouts
-Pinouts for the cable is as follows:
+# Sink-Side Pinouts
 
 ## LVDS (Sink-Side)
 * Needs pinout detailed, WIP
+
+## Magsafe (Sink-Side)
+* Needs pinout detailed, WIP
+
+## USB Hub (Sink-Side)
+* Needs pinout detailed, WIP
+
+# Source-Side Pinouts
 
 ## Mini DisplayPort ( Source-Side )
 Pinning | Purpose | Wire Color
