@@ -8,7 +8,39 @@ Pinout for the Apple LED Cinema Displays, for use to create a cable to replace a
 # Sink-Side Pinouts
 
 ## LVDS (Sink-Side)
-* Needs pinout detailed, WIP
+Pinning | Purpose | Wire Color
+:-: | :-: | :-:
+Pin 1 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 2 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 3 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 4 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 5 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 6 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 7 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 8 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 9 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 10 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 11 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 12 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 13 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 14 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 15 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 16 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 17 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 18 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 19 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 20 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 21 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 22 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 23 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 24 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 25 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 26 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 27 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 28 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 29 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 30 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Shield | Ground ⏚ | Shield
 
 ## Magsafe (Sink-Side) (MOLEX 39-01-2020 Connector)
 Pinning | Purpose | Wire Color
@@ -16,6 +48,12 @@ Pinning | Purpose | Wire Color
 Pin 1 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
 Pin 2 | Ground ⏚ | Shield
 
+  * 14.5V for 45W
+  * 16.5V for 60W
+  * 18.5V for 85W
+  * 20V for 85W
+  * Pins 1 is PINNED to Shield
+  
 ## USB Hub (Sink-Side) (mini USB-B Connector)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
@@ -25,6 +63,8 @@ Pin 3 | Data ＋ | Green
 Pin 4 | ̶ ̶ ̶ ̶  | ̶ ̶ ̶ ̶ 
 Pin 5 | Ground ⏚ | Black
 Shield | Ground ⏚ | Shield
+
+  * Pin 4 is NOT pinned to Shield
 
 # Source-Side Pinouts
 
