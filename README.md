@@ -41,9 +41,10 @@ Pin 28 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶
 Pin 29 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 30 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Shield | Ground ⏚ | Shield
-
   * Pins 3/6/9/12 is NOT pinned to Shield
   * Pins 3/6/9/12 ARE pinned to together
+
+![LVDS Sink-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/LVDS.png?raw=true)
 
 ## Magsafe (Sink-Side) (MOLEX 39-01-2020 Connector)
 Pinning | Purpose | Wire Color
