@@ -46,20 +46,19 @@ Shield | Ground ⏚ | Shield
   * Pins 3/6/9/12 ARE pinned to together
 
 ## Magsafe (Sink-Side) (MOLEX 39-01-2020 Connector)
-![MOLEX Sink-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/MOLEX.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
 Pin 2 | Ground ⏚ | Shield
-
   * 14.5V for 45W
   * 16.5V for 60W
   * 18.5V for 85W
   * 20V for 85W
   * Pins 1 is PINNED to Shield
-  
+
+![MOLEX Sink-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/MOLEX.png?raw=true)
+
 ## USB Hub (Sink-Side) (mini USB-B Connector)
-![mini-USB-B Sink-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/mini-USB-B.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
@@ -68,13 +67,13 @@ Pin 3 | Data ＋ | Green
 Pin 4 | ̶ ̶ ̶ ̶  | ̶ ̶ ̶ ̶ 
 Pin 5 | Ground ⏚ | Black
 Shield | Ground ⏚ | Shield
-
   * Pin 4 is NOT pinned to Shield
+
+![mini-USB-B Sink-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/mini-USB-B.png?raw=true)
 
 # Source-Side Pinouts
 
 ## Mini DisplayPort ( Source-Side )
-![mini-DisplayPort Source-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/mini-DisplayPort.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Ground ⏚ | Cyan Pair ( Shield )
@@ -98,8 +97,9 @@ Pin 18 | Aux Lane － | Magenta Pair
 Pin 19 | Ground ⏚ | Blue
 Pin 20 | Power ＋ ( 3.3V / 500mA ) | Red
 Shield | Ground ⏚ | Shield
-
   * Pins 1/13/14/19 is NOT pinned to Shield
+  
+![mini-DisplayPort Source-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/mini-DisplayPort.png?raw=true)
 
 ## Magsafe 1 (Source-Side)
 Pinning | Purpose | Wire Color
@@ -119,7 +119,6 @@ Shield | Ground ⏚ | Shield
   * Pins 1/5 are PINNED to Shield
 
 ## USB-A (Source-Side)
-![USB-A Source-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/USB-A.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
@@ -127,5 +126,6 @@ Pin 2 | Data － | Silver
 Pin 3 | Data ＋ | Green
 Pin 4 | Ground ⏚ | Black
 Shield | Ground ⏚ | Shield
-
   * Pin 4 is NOT pinned to Shield
+  
+![USB-A Source-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/USB-A.png?raw=true)
