@@ -10,11 +10,21 @@ Pinout for the Apple LED Cinema Displays, for use to create a cable to replace a
 ## LVDS (Sink-Side)
 * Needs pinout detailed, WIP
 
-## Magsafe (Sink-Side)
-* Needs pinout detailed, WIP
+## Magsafe (Sink-Side) (MOLEX 39-01-2020 Connector)
+Pinning | Purpose | Wire Color
+:-: | :-: | :-:
+Pin 1 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
+Pin 2 | Ground ⏚ | Shield
 
-## USB Hub (Sink-Side)
-* Needs pinout detailed, WIP
+## USB Hub (Sink-Side) (mini USB-B Connector)
+Pinning | Purpose | Wire Color
+:-: | :-: | :-:
+Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
+Pin 2 | Data － | Silver
+Pin 3 | Data ＋ | Green
+Pin 4 | ̶ ̶ ̶ ̶  | ̶ ̶ ̶ ̶ 
+Pin 5 | Ground ⏚ | Black
+Shield | Ground ⏚ | Shield
 
 # Source-Side Pinouts
 
@@ -62,7 +72,7 @@ Shield | Ground ⏚ | Shield
   * Pins 2/4 are PINNED together
   * Pins 1/5 are PINNED to Shield
 
-## USB (Source-Side)
+## USB-A (Source-Side)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
