@@ -11,17 +11,17 @@ Pinout for the Apple LED Cinema Displays, for use to create a cable to replace a
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 2 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 3 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 4 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 5 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 6 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 7 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 8 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 9 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 10 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 11 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 12 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 2 | Power ＋ ( 3.3V / 500mA ) | Red
+Pin 3 | Ground ⏚ | Magenta Pair ( Shield )
+Pin 4 | Aux Lane － | Magenta Pair
+Pin 5 | Aux Lane ＋ | Magenta Pair
+Pin 6 | Ground ⏚ | Cyan Pair ( Shield )
+Pin 7 | Lane 3 － | Cyan Pair
+Pin 8 | Lane 3 ＋ | Cyan Pair
+Pin 9 | Ground ⏚ | Silver Pair ( Shield )
+Pin 10 | Lane 1 ＋ | Silver Pair
+Pin 11 | Lane 1 － | Silver Pair
+Pin 12 | Ground ⏚ | Blue
 Pin 13 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 14 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 15 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
@@ -30,7 +30,7 @@ Pin 17 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶
 Pin 18 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 19 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 20 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 21 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
+Pin 21 | Hotplug | Green
 Pin 22 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 23 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 24 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
@@ -41,6 +41,9 @@ Pin 28 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶
 Pin 29 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 30 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Shield | Ground ⏚ | Shield
+
+  * Pins 3/6/9/12 is NOT pinned to Shield
+  * Pins 3/6/9/12 ARE pinned to together
 
 ## Magsafe (Sink-Side) (MOLEX 39-01-2020 Connector)
 Pinning | Purpose | Wire Color
@@ -93,7 +96,7 @@ Pin 19 | Ground ⏚ | Blue
 Pin 20 | Power ＋ ( 3.3V / 500mA ) | Red
 Shield | Ground ⏚ | Shield
 
-  * Pins 1/13/14/19 MIGHT be pinned to Shield? (Needs clarification)
+  * Pins 1/13/14/19 is NOT pinned to Shield
 
 ## Magsafe 1 (Source-Side)
 Pinning | Purpose | Wire Color
