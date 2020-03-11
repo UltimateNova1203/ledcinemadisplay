@@ -46,6 +46,7 @@ Shield | Ground ⏚ | Shield
   * Pins 3/6/9/12 ARE pinned to together
 
 ## Magsafe (Sink-Side) (MOLEX 39-01-2020 Connector)
+![MOLEX Sink-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/MOLEX.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
@@ -58,6 +59,7 @@ Pin 2 | Ground ⏚ | Shield
   * Pins 1 is PINNED to Shield
   
 ## USB Hub (Sink-Side) (mini USB-B Connector)
+![mini-USB-B Sink-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/mini-USB-B.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
@@ -72,6 +74,7 @@ Shield | Ground ⏚ | Shield
 # Source-Side Pinouts
 
 ## Mini DisplayPort ( Source-Side )
+![mini-DisplayPort Source-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/mini-DisplayPort.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Ground ⏚ | Cyan Pair ( Shield )
@@ -116,6 +119,7 @@ Shield | Ground ⏚ | Shield
   * Pins 1/5 are PINNED to Shield
 
 ## USB-A (Source-Side)
+![USB-A Source-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/USB-A.png?raw=true)
 Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Vʙᴜs ＋ ( 5V / 100mA ) | Red
