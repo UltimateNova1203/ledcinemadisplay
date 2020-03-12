@@ -16,8 +16,8 @@ Pin 3 | Ground ⏚ | Magenta Pair ( Shield )
 Pin 4 | Aux Lane － | Magenta Pair
 Pin 5 | Aux Lane ＋ | Magenta Pair
 Pin 6 | Ground ⏚ | Cyan Pair ( Shield )
-Pin 7 | Lane 3 － | Cyan Pair
-Pin 8 | Lane 3 ＋ | Cyan Pair
+Pin 7 | Lane 0 ＋ | Cyan Pair
+Pin 8 | Lane 0 － | Cyan Pair
 Pin 9 | Ground ⏚ | Silver Pair ( Shield )
 Pin 10 | Lane 1 ＋ | Silver Pair
 Pin 11 | Lane 1 － | Silver Pair
@@ -79,9 +79,9 @@ Pinning | Purpose | Wire Color
 :-: | :-: | :-:
 Pin 1 | Ground ⏚ | Cyan Pair ( Shield )
 Pin 2 | Hotplug | Green
-Pin 3 | Lane 3 － | Cyan Pair
+Pin 3 | Lane 0 ＋ | Cyan Pair
 Pin 4 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
-Pin 5 | Lane 3 ＋ | Cyan Pair
+Pin 5 | Lane 0 － | Cyan Pair
 Pin 6 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 7 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
 Pin 8 | ̶ ̶ ̶ ̶ | ̶ ̶ ̶ ̶ 
