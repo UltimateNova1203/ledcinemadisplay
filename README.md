@@ -111,13 +111,14 @@ Pin 3 | Charge Control | I2C Wire
 Pin 4 | V ＋ ( 14.5V / 16.5V / 18.5V / 20V ) | White (Core)
 Pin 5 | Ground ⏚ | Shield
 Shield | Ground ⏚ | Shield
-
   * 14.5V for 45W
   * 16.5V for 60W
   * 18.5V for 85W
   * 20V for 85W
   * Pins 2/4 are PINNED together
   * Pins 1/5 are PINNED to Shield
+
+![MagSafe 1 Source-Side](https://github.com/UltimateNova1203/ledcinemadisplay/blob/master/MagSafe.png?raw=true)
 
 ## USB-A (Source-Side)
 Pinning | Purpose | Wire Color
